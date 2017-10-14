@@ -1,0 +1,22 @@
+{
+  "name": "Test-GUI",
+  "version": "1.0.0",
+  "description": "GUI created for CANSAT team from the University of Minnesota",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository":"https://github.com/akiet00/CansatGUI2017",
+  "keywords": [
+    "CANSAT",
+    "GUI",
+    "Electron",
+    "UMN",
+    "students"
+  ],
+  "author": "Kiet and Cass",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.7.8"
+  }
+}

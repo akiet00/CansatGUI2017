@@ -1,0 +1,9 @@
+
+/*Import font from Google Font */
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
+body{
+  font-size: 14px;
+  font-family: 'Merriweather', serif !important;
+  /*color: #999; /*Font color*/
+}
